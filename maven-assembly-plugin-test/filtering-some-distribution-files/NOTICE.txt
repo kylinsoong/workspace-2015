@@ -1,0 +1,4 @@
+This is NOTICE
+
+${variable1}=value1
+${variable2}=value2
